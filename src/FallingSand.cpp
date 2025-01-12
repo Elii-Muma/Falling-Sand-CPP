@@ -1,4 +1,4 @@
-#include "Game.hpp"
+#include "FallingSand.hpp"
 
 void Game::initVar(){
     
